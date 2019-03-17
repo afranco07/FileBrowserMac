@@ -1,6 +1,6 @@
 # Mac File Browser
 
-[!macdemo](https://github.com/afranco07/gifImageStorage/blob/master/macapp_demo.gif?raw=true)
+![macdemo](https://github.com/afranco07/gifImageStorage/blob/master/macapp_demo.gif?raw=true)
 
 ## Requirements
 
